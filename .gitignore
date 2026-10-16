@@ -1,0 +1,26 @@
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated CSV output
+output.csv
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/

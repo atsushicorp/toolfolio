@@ -1,0 +1,6 @@
+id,name,age,prefecture,status,memo
+1,田中太郎 ,35,埼玉県,active,確認済
+2,佐藤花子   ,28,東京都,inactive,退会
+3,    鈴木一郎,42,埼玉県,active,継続
+4,  高橋美咲,31,千葉県,active,新規
+5,     山田健一,50,埼玉県,inactive,退会
