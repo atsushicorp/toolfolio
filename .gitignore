@@ -19,6 +19,7 @@ Thumbs.db
 
 # Generated CSV output
 output.csv
+monthly_sales.csv
 
 # Python build artifacts
 build/
